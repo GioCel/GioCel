@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GioCel
-- 👀 I’m interested in Computer Science more specifically in Data Analytics (SQL, Python, Tableau)
-- 🌱 I’m currently learning Computer Science at Harvard
+- 👀 I’m interested in Tech in general and more specifically AWS Cloud (solutions architecting and AI/ML)
+- 🌱 I’m currently studying AWS Solutions Architect and AI/ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
